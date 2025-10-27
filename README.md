@@ -1,5 +1,7 @@
 # 🌾 AgroSense — Smart IoT-Based Irrigation & Monitoring System
 
+![AgroSense Hardware Setup](./Images/agrosense_hardware_setup.jpg)
+
 **AgroSense** is a smart IoT-based automation system designed to modernize agriculture through real-time monitoring, intelligent irrigation control, and cloud-connected data visualization.  
 Built using **Arduino Uno**, **NodeMCU (ESP8266)**, and the **Blynk IoT platform**, it helps farmers conserve water, reduce labor, and improve crop yield through automation and remote access.
 
